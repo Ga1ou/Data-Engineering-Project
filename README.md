@@ -5,4 +5,5 @@ Further, the data needs to be transformed and stored in GBP, EUR, and INR as wel
 The processed information table is to be saved locally in a CSV format and as a database table.
 
 My job is to create an automated system to generate this information so that the same can be executed in every financial quarter to prepare the report.
-![02-Display_Values](https://github.com/Ga1ou/IBM-Data-Engineering-Certificate/assets/68077417/86507630-b6db-4192-976c-8595ba053a28)
+
+![image](https://github.com/Ga1ou/IBM-Data-Engineering-Certificate/assets/68077417/b5f2cb0c-f37a-4cc2-817f-26708a3f14a8)
